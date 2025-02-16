@@ -8,7 +8,7 @@ Here's an updated README with an image at the top and a demo link:
 
 A simple and elegant task manager that allows users to add, search, and manage tasks easily.  
 
-🔗 **Live Demo:** [View Task Manager](https://your-demo-link.com](https://little-to-do.netlify.app/))  
+🔗 **Live Demo:** [View Task Manager](https://little-to-do.netlify.app/)  
 
 ## 📸 Preview  
 
