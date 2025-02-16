@@ -4,7 +4,7 @@ Here's an updated README with an image at the top and a demo link:
 
 # 📝 Task Manager  
 
-![Task Manager](./Screenshot.png)  
+![Task Manager](./assets/preview/light.png)  
 
 A simple and elegant task manager that allows users to add, search, and manage tasks easily.  
 
